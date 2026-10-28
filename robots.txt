@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://blucelicoder.github.io/my-blog/sitemap.xml
